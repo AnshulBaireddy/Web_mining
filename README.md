@@ -1,1 +1,1 @@
-# Web_mining_assignments
+# Web_mining
